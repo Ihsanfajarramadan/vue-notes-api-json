@@ -12,7 +12,7 @@ yarn serve
 json-server --watch db.json
 ```
 
-## Open in browser http://localhost/8080
+## Open in browser http://localhost:8080
 
 
 ### Customize configuration
