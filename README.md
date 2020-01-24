@@ -1,4 +1,4 @@
-# vue
+# vue-api-json || Notes
 
 ## Project setup
 ```
